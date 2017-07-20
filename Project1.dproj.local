@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.07.20 18:06:34.329.pas,C:\Users\Он\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Он\Documents\RAD Studio\Projects\Model.pas</Transaction>
+    <Transaction>2017.07.20 18:23:36.457.pas,C:\Users\Он\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Он\Documents\RAD Studio\Projects\Controller.pas</Transaction>
+    <Transaction>2017.07.20 18:38:36.886.pas,C:\Users\Он\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Он\Documents\RAD Studio\Projects\mvc minimal\Unit1.pas</Transaction>
+    <Transaction>2017.07.20 18:38:36.886.dfm,C:\Users\Он\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Он\Documents\RAD Studio\Projects\mvc minimal\Unit1.dfm</Transaction>
+    <Transaction>2017.07.20 18:38:39.158.pas,C:\Users\Он\Documents\RAD Studio\Projects\Controller.pas=C:\Users\Он\Documents\RAD Studio\Projects\mvc minimal\Controller.pas</Transaction>
+    <Transaction>2017.07.20 18:38:40.582.pas,C:\Users\Он\Documents\RAD Studio\Projects\Model.pas=C:\Users\Он\Documents\RAD Studio\Projects\mvc minimal\Model.pas</Transaction>
+    <Transaction>2017.07.20 18:38:43.239.dproj,C:\Users\Он\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Он\Documents\RAD Studio\Projects\mvc minimal\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
