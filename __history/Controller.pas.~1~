@@ -18,7 +18,7 @@ implementation
 
 procedure TController.btnSetOnClick(Sender: TObject);
 begin
-  FModel.Info := FView.edtInfo.Text;
+  FModel.Info := string(FView.edtInfo.Text);
 end;
 
 constructor TController.Create(aView: TForm1; aModel: TModel);
